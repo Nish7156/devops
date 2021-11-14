@@ -1,0 +1,3 @@
+[05-Jul-2021 06:15:49 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/webtrigg/public_html/contact-form.php on line 13
+[05-Jul-2021 06:21:33 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/webtrigg/public_html/contact1.php on line 11
+aa
