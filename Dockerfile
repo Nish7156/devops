@@ -1,5 +1,5 @@
 FROM hshar/webapp
-ADD ./devops/var/www/html/devops
+ADD . /devops/var/www/html/devops
 
 
 
