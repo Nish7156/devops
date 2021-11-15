@@ -1,5 +1,5 @@
 FROM nginx
-ADD .  /usr/share/nginx/html/devpos
+ADD . /usr/share/nginx/html/devpos
 
 
 
